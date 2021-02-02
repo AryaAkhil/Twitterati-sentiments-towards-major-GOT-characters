@@ -3,8 +3,8 @@
 ### Keywords: 
 Twitter, Game of thrones'S8, Text Mining/NLP, Sentiment Analysis.
 
-Language:
-Python
+### Language:
+Python (Jupyter Notebook)
 
 ### Major Packages: 
 pandas, textblob, nltk, vader
