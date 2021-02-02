@@ -1,5 +1,9 @@
 ## Summary
 
+### Keywords: Twitter data, Game of thrones'S8, Text Mining/NLP, Sentiment Analysis.
+
+### Packages: pandas, textblob, nltk, vader
+
 ### Overview:
 This project aims to showcase how to clean textual (twitter) and perform sentiment analysis. Data used is obtained through Kaggle - GOT'S8. By going through this notebook, one can expect to learn extensive data wrangling on textual data such as stop words removal, POS-tagged lemmatization, regex filtering of text etc and perform sentiment analysis using existing APIs such as vader and textblob. The Jupter Notebook uploaded contains comprehensive data wrangling and sentiment analysis. Follow the inline comments to run through the code.
 
