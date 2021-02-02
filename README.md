@@ -2,3 +2,5 @@ This project aims to showcase how to clean textual (twitter) and perform sentime
 
 Data Source: Game of Thrones Season 8 Tweets (https://www.kaggle.com/monogenea/game-of-thrones-twitter).
 This dataset contains a collection of tweets captured from 17th April to 28th May 2019, during the airing of Game of Thrones, Season 8.
+
+The Jupter Notebook uploaded contains comprehensive data wrangling and sentiment analysis. Follow the inline comments to run through the code.
